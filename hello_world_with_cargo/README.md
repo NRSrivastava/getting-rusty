@@ -1,4 +1,4 @@
-# Compile and Run `helloworld.rs`
+# Compile and Run `main.rs`
 
 ![Hello World!](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejQwMjlqdTBzNW0zcjBjbmFhbGh6NzNnaWg2OWhrcXU2M3Z5OGNqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif)
 
