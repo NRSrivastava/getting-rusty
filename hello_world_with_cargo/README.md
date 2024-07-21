@@ -20,7 +20,7 @@
     ```
 
 ## Note
-Create a new cargo package at <path>
+Create a new cargo package at \<path\>
 ```bash
 cargo new <path>
 ```
