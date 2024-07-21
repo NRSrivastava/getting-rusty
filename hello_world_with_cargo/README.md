@@ -19,3 +19,8 @@
     ./hello_world_with_cargo
     ```
 
+## Note
+Create a new cargo package at <path>
+```bash
+cargo new <path>
+```
